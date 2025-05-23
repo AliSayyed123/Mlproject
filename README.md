@@ -36,3 +36,5 @@ python app.py
 Then visit: http://127.0.0.1:5000 in your browser.
 
 ## Currently working on deployment
+
+Deployed on AWS elastic Beanstalk, and render(free deployment)
